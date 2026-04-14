@@ -4,6 +4,7 @@ years of life lost in patients with false-negative diagnosis of melanoma
 # Data
 
 The data folder contains multiple datasets used throughout the analysis. The data are organized into three main subfolders:
+
 🔹 Raw Data (raw_data/)
 
 This folder contains the original dataset directly extracted from the MMDOK database. Raw data remain unchanged to ensure reproducibility.
